@@ -1,0 +1,25 @@
+.col-img1{
+    /* background-image: url("img/cover2.jpg"); */
+    background-size: cover;
+    background-position: center;
+    height:350px;
+    width:700px;
+}
+.icon-box{
+    height: 23px;
+    width: 23px;
+    background-color: var(--primary);
+    font-size: 24px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    flex:none;
+}
+.features{
+    font-size: 12px;
+}
+.heading-color{
+    font-size: 16px;
+}
